@@ -295,6 +295,7 @@ GameObject:
   - component: {fileID: 804916449}
   - component: {fileID: 804916448}
   - component: {fileID: 804916450}
+  - component: {fileID: 804916451}
   m_Layer: 0
   m_Name: bird
   m_TagString: Untagged
@@ -379,6 +380,21 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!58 &804916451
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 804916447}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.2709916, y: -0}
+  serializedVersion: 2
+  m_Radius: 1.8
 --- !u!1 &838272632
 GameObject:
   m_ObjectHideFlags: 0
