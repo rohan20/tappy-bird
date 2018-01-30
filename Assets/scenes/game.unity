@@ -328,7 +328,7 @@ GameObject:
   - component: {fileID: 761100764}
   m_Layer: 0
   m_Name: top_pipe
-  m_TagString: Untagged
+  m_TagString: TagDeadZone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -536,7 +536,7 @@ GameObject:
   - component: {fileID: 811553138}
   m_Layer: 0
   m_Name: ScoreZone
-  m_TagString: Untagged
+  m_TagString: TagScoreZone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -979,7 +979,7 @@ GameObject:
   - component: {fileID: 1070501007}
   m_Layer: 0
   m_Name: ground
-  m_TagString: Untagged
+  m_TagString: TagDeadZone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1440,7 +1440,7 @@ GameObject:
   - component: {fileID: 1718569039}
   m_Layer: 0
   m_Name: bottom_pipe
-  m_TagString: Untagged
+  m_TagString: TagDeadZone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
